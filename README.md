@@ -1,4 +1,4 @@
-## Mork Sunhout
+### Mork Sunhout
 # 💫 About Me:
 "I'm a junior majoring in Software Development at AUPP, with a growing interest in data analysis and data science. I'm currently building skills in data-driven decision-making and exploring how to turn raw data into actionable insights
 
