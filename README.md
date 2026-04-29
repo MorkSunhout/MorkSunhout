@@ -1,6 +1,6 @@
 # Mork Sunhout
 ## 💫 About Me:
-Junior Software Engineer with hands-on experience in building full-<br>stack applications using React, Express, and MongoDB. Proficient in<br>Java, Python, SQL, and RESTful APIs, with a strong understanding of<br>backend architecture and data management. Experienced in<br>developing scalable systems and transforming technical requirements<br>into practical, user-focused solutions.
+Junior Software Engineer with hands-on experience in building full-stack applications using React, Express, and MongoDB. Proficient in Java, Python, SQL, and RESTful APIs, with a strong understanding of backend architecture and data management. Experienced in developing scalable systems and transforming technical requirements into practical, user-focused solutions.
 
 
 ## 🌐 Socials:
